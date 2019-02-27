@@ -1,0 +1,41 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/jueding/main",
+    "pages/setting/main",
+    "pages/editPage/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "大转盘",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#7a7a7a",
+    "selectedColor": "#007aff",
+    "backgroundColor": "#ffffff",
+    "borderStyle": "black",
+    "position": "bottom",
+    "list": [
+       {
+          "pagePath": "pages/index/main",
+          "text": "首页",
+          "iconPath": "/static/images/icon_tab_index_81.png",
+          "selectedIconPath": "/static/images/icon_tab_index_select_81.png"
+       },
+       {
+          "pagePath": "pages/jueding/main",
+          "text": "创建小决定",
+          "iconPath": "/static/images/icon_tab_list_81.png",
+          "selectedIconPath": "/static/images/icon_tab_list_select_81.png"
+       },
+       {
+          "pagePath": "pages/setting/main",
+          "text": "设置",
+          "iconPath": "/static/images/icon_tab_set_81.png",
+          "selectedIconPath": "/static/images/icon_tab_set_select_81.png"
+       }
+    ]
+ }
+}

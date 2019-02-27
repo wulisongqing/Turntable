@@ -1,0 +1,11 @@
+{
+    "navigationBarTitleText": "大转盘",
+    "enablePullDownRefresh": false,
+    "backgroundColor":"#eee",
+    "navigationBarBackgroundColor":"#fff",
+    "navigationBarTextStyle":"black",
+    "components":"true",
+    "usingComponents": {
+      "zhuanpan": "/components/zhuanpan/zhuanpan"
+   }
+}

@@ -1,0 +1,8 @@
+{
+    "navigationBarTitleText": "创建小决定",
+    "enablePullDownRefresh": true,
+    "backgroundColor":"#eee",
+    "navigationBarBackgroundColor":"#fff",
+    "navigationBarTextStyle":"black",
+    "component": true
+}
