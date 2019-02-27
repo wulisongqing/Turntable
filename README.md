@@ -1,6 +1,6 @@
-# qqbb
+# Turntable
 
-> 千牵
+> 好看又好玩的大转盘
 
 ## Build Setup
 
